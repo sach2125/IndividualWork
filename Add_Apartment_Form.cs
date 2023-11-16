@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace IndividualWork
 {
+    //Форма добавления элеметов в базу
     public partial class Add_Apartment_Form : Form
     {
         public Add_Apartment_Form()
