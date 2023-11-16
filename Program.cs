@@ -17,6 +17,7 @@ namespace IndividualWork
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Authorization());
+            //Да уж, хреновый ты программист
         }
     }
 }
